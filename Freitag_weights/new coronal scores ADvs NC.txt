@@ -1,0 +1,12 @@
+0:50 NC
+brain 1221.9901
+basal 59.17949
+cerebellum 180.75488
+frontal 247.96371
+hippo 52.967533
+insula 64.22871
+occipital 74.841095
+parietal 155.42511
+temporal 496.4879
+
+0:50 AD

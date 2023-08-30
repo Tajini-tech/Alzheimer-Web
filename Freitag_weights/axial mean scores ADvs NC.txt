@@ -1,0 +1,77 @@
+0:50 NC
+brain 1273.7987
+basal 94.63523
+cerebellum 107.97497
+frontal 304.1955
+hippo 31.691643
+insula 99.677864
+occipital 167.20045
+parietal 291.92776
+temporal 349.3057
+
+50:100 NC
+brain 1397.9984
+basal 88.41587
+cerebellum 113.4059
+frontal 332.38928
+hippo 31.99946
+insula 114.28439
+occipital 193.21782
+parietal 326.54306
+temporal 393.40076
+
+100:150 NC
+brain 1276.9122
+basal 79.33234
+cerebellum 94.433685
+frontal 345.7928
+hippo 29.749697
+insula 102.727234
+occipital 163.80963
+parietal 289.88022
+temporal 347.07062
+
+150:200 NC
+brain 1384.0927
+basal 76.67561
+cerebellum 105.38044
+frontal 331.71466
+hippo 28.050991
+insula 110.78571
+occipital 197.40005
+parietal 331.12085
+temporal 400.0469
+
+0:50 AD
+brain 1189.887
+basal 94.61213
+cerebellum 105.695595
+frontal 333.39496
+hippo 31.332012
+insula 94.70609
+occipital 131.14532
+parietal 245.40987
+temporal 305.8453
+50:100AD
+brain 1256.3007
+basal 97.7908
+cerebellum 110.95484
+frontal 345.82687
+hippo 34.862568
+insula 102.17577
+occipital 150.73886
+parietal 262.16055
+temporal 321.80527
+100:150 AD
+brain 1265.3395
+basal 96.28077
+cerebellum 115.719444
+frontal 337.8464
+hippo 34.1041
+insula 105.30051
+occipital 152.25504
+parietal 267.99216
+temporal 329.06915
+
+
+

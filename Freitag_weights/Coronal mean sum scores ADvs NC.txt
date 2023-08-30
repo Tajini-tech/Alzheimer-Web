@@ -1,0 +1,292 @@
+-------------scores for 50 AD patients-----------------------
+Sum of relevances for patient  297.71152
+Sum of relevances for hippocampus patient  1.4514459
+Sum of relevances for patient  873.43884
+Sum of relevances for hippocampus patient  48.379696
+Sum of relevances for patient  641.57837
+Sum of relevances for hippocampus patient  32.9945
+Sum of relevances for patient  334.42255
+Sum of relevances for hippocampus patient  1.6692444
+Sum of relevances for patient  525.31866
+Sum of relevances for hippocampus patient  8.151831
+Sum of relevances for patient  264.79214
+Sum of relevances for hippocampus patient  1.1400473
+Sum of relevances for patient  276.49893
+Sum of relevances for hippocampus patient  7.33096
+Sum of relevances for patient  1199.6392
+Sum of relevances for hippocampus patient  52.305183
+Sum of relevances for patient  814.86426
+Sum of relevances for hippocampus patient  30.173891
+Sum of relevances for patient  1271.3284
+Sum of relevances for hippocampus patient  102.54414
+Sum of relevances for patient  768.63055
+Sum of relevances for hippocampus patient  76.990715
+Sum of relevances for patient  869.04254
+Sum of relevances for hippocampus patient  67.4268
+Sum of relevances for patient  636.9199
+Sum of relevances for hippocampus patient  13.971123
+Sum of relevances for patient  270.227
+Sum of relevances for hippocampus patient  2.517189
+Sum of relevances for patient  804.53955
+Sum of relevances for hippocampus patient  66.418
+Sum of relevances for patient  1098.3531
+Sum of relevances for hippocampus patient  49.149
+Sum of relevances for patient  509.80328
+Sum of relevances for hippocampus patient  40.376965
+Sum of relevances for patient  1012.6163
+Sum of relevances for hippocampus patient  46.693623
+Sum of relevances for patient  867.9135
+Sum of relevances for hippocampus patient  16.895832
+Sum of relevances for patient  1361.1382
+Sum of relevances for hippocampus patient  90.65243
+Sum of relevances for patient  616.33215
+Sum of relevances for hippocampus patient  33.98326
+Sum of relevances for patient  760.8323
+Sum of relevances for hippocampus patient  44.84538
+Sum of relevances for patient  466.511
+Sum of relevances for hippocampus patient  18.61569
+Sum of relevances for patient  227.53813
+Sum of relevances for hippocampus patient  0.3313315
+Sum of relevances for patient  909.6133
+Sum of relevances for hippocampus patient  98.715866
+Sum of relevances for patient  421.8445
+Sum of relevances for hippocampus patient  12.750698
+Sum of relevances for patient  226.14276
+Sum of relevances for hippocampus patient  1.0183626
+Sum of relevances for patient  777.2841
+Sum of relevances for hippocampus patient  31.675253
+Sum of relevances for patient  1415.6193
+Sum of relevances for hippocampus patient  84.65749
+Sum of relevances for patient  729.7925
+Sum of relevances for hippocampus patient  18.259718
+Sum of relevances for patient  1225.7577
+Sum of relevances for hippocampus patient  73.07033
+Sum of relevances for patient  790.3236
+Sum of relevances for hippocampus patient  30.819345
+Sum of relevances for patient  783.7406
+Sum of relevances for hippocampus patient  57.40484
+Sum of relevances for patient  271.2639
+Sum of relevances for hippocampus patient  5.3950315
+Sum of relevances for patient  635.9247
+Sum of relevances for hippocampus patient  14.880838
+Sum of relevances for patient  245.10052
+Sum of relevances for hippocampus patient  1.25977
+Sum of relevances for patient  777.61597
+Sum of relevances for hippocampus patient  34.38443
+Sum of relevances for patient  217.87334
+Sum of relevances for hippocampus patient  1.048235
+Sum of relevances for patient  561.91174
+Sum of relevances for hippocampus patient  18.473835
+Sum of relevances for patient  325.88797
+Sum of relevances for hippocampus patient  1.9505605
+Sum of relevances for patient  741.32965
+Sum of relevances for hippocampus patient  8.807351
+Sum of relevances for patient  628.35266
+Sum of relevances for hippocampus patient  45.982864
+Sum of relevances for patient  884.7384
+Sum of relevances for hippocampus patient  29.955488
+Sum of relevances for patient  1119.5929
+Sum of relevances for hippocampus patient  38.956223
+Sum of relevances for patient  576.8138
+Sum of relevances for hippocampus patient  49.777878
+Sum of relevances for patient  1755.0518
+Sum of relevances for hippocampus patient  74.29033
+Sum of relevances for patient  301.1683
+Sum of relevances for hippocampus patient  1.9418768
+Sum of relevances for patient  1060.5814
+Sum of relevances for hippocampus patient  52.274582
+Sum of relevances for patient  1805.1384
+Sum of relevances for hippocampus patient  130.63853
+Sum of relevances for patient  981.0241
+Sum of relevances for hippocampus patient  15.788108
+
+Process finished with exit code 0
+
+
+-------------scores for 50 NC patients-----------------------
+Sum of relevances for patient  1199.0912
+Sum of relevances for hippocampus patient  105.02715
+Sum of relevances for patient  576.5104
+Sum of relevances for hippocampus patient  19.065975
+Sum of relevances for patient  1371.8373
+Sum of relevances for hippocampus patient  125.93057
+Sum of relevances for patient  1022.8497
+Sum of relevances for hippocampus patient  101.56548
+Sum of relevances for patient  248.93358
+Sum of relevances for hippocampus patient  1.235838
+Sum of relevances for patient  875.692
+Sum of relevances for hippocampus patient  71.6165
+Sum of relevances for patient  927.1879
+Sum of relevances for hippocampus patient  58.121155
+Sum of relevances for patient  1165.7261
+Sum of relevances for hippocampus patient  75.637695
+Sum of relevances for patient  1535.598
+Sum of relevances for hippocampus patient  110.861046
+Sum of relevances for patient  1130.4084
+Sum of relevances for hippocampus patient  93.51694
+Sum of relevances for patient  1232.4779
+Sum of relevances for hippocampus patient  91.67053
+Sum of relevances for patient  549.6867
+Sum of relevances for hippocampus patient  44.51211
+Sum of relevances for patient  1282.535
+Sum of relevances for hippocampus patient  101.39377
+Sum of relevances for patient  959.52826
+Sum of relevances for hippocampus patient  114.79139
+Sum of relevances for patient  465.80612
+Sum of relevances for hippocampus patient  26.6579
+Sum of relevances for patient  254.06972
+Sum of relevances for hippocampus patient  1.0780711
+Sum of relevances for patient  1055.4194
+Sum of relevances for hippocampus patient  92.767426
+Sum of relevances for patient  715.46063
+Sum of relevances for hippocampus patient  42.81548
+Sum of relevances for patient  1218.3715
+Sum of relevances for hippocampus patient  80.00349
+Sum of relevances for patient  482.1243
+Sum of relevances for hippocampus patient  33.044548
+Sum of relevances for patient  934.8085
+Sum of relevances for hippocampus patient  67.26458
+Sum of relevances for patient  738.018
+Sum of relevances for hippocampus patient  53.87358
+Sum of relevances for patient  915.00964
+Sum of relevances for hippocampus patient  68.858315
+Sum of relevances for patient  1023.60046
+Sum of relevances for hippocampus patient  74.81194
+Sum of relevances for patient  563.8421
+Sum of relevances for hippocampus patient  31.83366
+Sum of relevances for patient  913.78217
+Sum of relevances for hippocampus patient  55.321304
+Sum of relevances for patient  1256.4666
+Sum of relevances for hippocampus patient  94.913666
+Sum of relevances for patient  1175.2925
+Sum of relevances for hippocampus patient  111.21536
+Sum of relevances for patient  965.0972
+Sum of relevances for hippocampus patient  84.540924
+Sum of relevances for patient  883.5828
+Sum of relevances for hippocampus patient  34.47279
+Sum of relevances for patient  932.169
+Sum of relevances for hippocampus patient  40.966045
+Sum of relevances for patient  668.28235
+Sum of relevances for hippocampus patient  12.663298
+Sum of relevances for patient  420.5777
+Sum of relevances for hippocampus patient  15.892439
+Sum of relevances for patient  658.9792
+Sum of relevances for hippocampus patient  28.154886
+Sum of relevances for patient  1117.7438
+Sum of relevances for hippocampus patient  128.15343
+Sum of relevances for patient  866.1815
+Sum of relevances for hippocampus patient  43.73178
+Sum of relevances for patient  1318.1653
+Sum of relevances for hippocampus patient  109.80241
+Sum of relevances for patient  953.05176
+Sum of relevances for hippocampus patient  75.31794
+Sum of relevances for patient  1440.9342
+Sum of relevances for hippocampus patient  123.83719
+Sum of relevances for patient  551.99976
+Sum of relevances for hippocampus patient  18.318668
+Sum of relevances for patient  1515.2026
+Sum of relevances for hippocampus patient  128.98688
+Sum of relevances for patient  399.9669
+Sum of relevances for hippocampus patient  24.89884
+Sum of relevances for patient  1372.2406
+Sum of relevances for hippocampus patient  128.2025
+Sum of relevances for patient  871.844
+Sum of relevances for hippocampus patient  63.7445
+Sum of relevances for patient  1379.9945
+Sum of relevances for hippocampus patient  84.74085
+Sum of relevances for patient  819.7179
+Sum of relevances for hippocampus patient  46.564034
+Sum of relevances for patient  708.7211
+Sum of relevances for hippocampus patient  68.53628
+Sum of relevances for patient  1307.3892
+Sum of relevances for hippocampus patient  99.15416
+Sum of relevances for patient  983.105
+Sum of relevances for hippocampus patient  35.296185
+Sum of relevances for patient  862.8932
+Sum of relevances for hippocampus patient  43.394295
+
+Process finished with exit code 0
+
+coronal slices
+
+
+mean sum 50 NC:
+brain 1365.0457
+basal 62.2571
+cerebellum 125.44778
+frontal 237.9004
+hippo 94.071106
+insula 64.93459
+occipital 139.11192
+parietal 163.81865
+temporal 652.4899
+
+mean sum 50:100 NC
+brain 1519.4744
+basal 57.910835
+cerebellum 121.16977
+frontal 270.0183
+hippo 97.120705
+insula 73.43097
+occipital 143.80632
+parietal 165.25409
+temporal 772.7852
+
+mean sum 100:150
+brain 1380.6661
+basal 50.780186
+cerebellum 118.73062
+frontal 255.23286
+hippo 89.076126
+insula 68.94862
+occipital 125.15488
+parietal 157.44278
+temporal 685.50244
+
+mean sum 150:200
+
+brain 1525.3259
+basal 48.01099
+cerebellum 123.33384
+frontal 269.24097
+hippo 102.10508
+insula 68.671906
+occipital 139.65297
+parietal 158.39053
+temporal 802.32806
+
+------------------------------------------------------------------------------------
+mean sum AD 0:50
+brain 1037.7627
+basal 70.27866
+cerebellum 92.05708
+frontal 201.75272
+hippo 47.726387
+insula 65.42222
+occipital 131.09842
+parietal 164.64044
+temporal 387.0745
+
+mean sum AD 50:100
+brain 1149.3473
+basal 71.197014
+cerebellum 89.299484
+frontal 223.60422
+hippo 72.30449
+insula 79.62532
+occipital 137.6856
+parietal 166.54535
+temporal 462.03476
+
+mean sum AD 100:150
+
+brain 1195.3423
+basal 73.75114
+cerebellum 102.2003
+frontal 221.30699
+hippo 71.41733
+insula 78.214226
+occipital 147.8642
+parietal 189.95143
+temporal 469.53632
+
