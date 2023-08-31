@@ -260,16 +260,16 @@ def two_d_vis(relevance_map, original_data,t=0 ,k=8,title=""):
                 [0.88, 'rgb' + "(215, 48, 39)"],
                 [1, 'rgb' + "(88, 19, 16)"]
                 ]
-    pil_img = apply_threshold(relevance_map[40], t)
+    heatmap_threshold = apply_threshold(relevance_map[40], t)
     fig.add_traces([
         go.Surface(x=x1, y=y1, z=np.array([z1] * 105), surfacecolor=original_data[40],
                    colorscale='Gray', cmin=200, cmax=200, showscale=False),
-        go.Surface(x=2*x1, y=y1, z=np.array([z1] * 105),opacity=0.7,surfacecolor=pil_img,
+        go.Surface(x=2*x1, y=y1, z=np.array([z1] * 105),opacity=0.7,surfacecolor=heatmap_threshold,
                    colorscale=colorscale,cmin=0,cmax=1
                    ,showscale=True)])
     frames = []
     for row in range(0, 65):
-        pil_img = apply_threshold(relevance_map[row], t)
+        heatmap_threshold = apply_threshold(relevance_map[row], t)
         frames.append(
             go.Frame(
                 name=str(row),
@@ -277,7 +277,7 @@ def two_d_vis(relevance_map, original_data,t=0 ,k=8,title=""):
                     go.Surface(x=row*x1, y=y1, z=np.array([z1] * 105), surfacecolor=original_data[row]
                                , colorscale='Gray', cmin=200, cmax=200, showscale=False),
                     go.Surface(x=(2+row)*x1, y=y1, z=np.array([z1] * 105),
-                                opacity=0.7,colorscale=colorscale,surfacecolor=pil_img,cmin=0,cmax=1,
+                                opacity=0.7,colorscale=colorscale,surfacecolor=heatmap_threshold,cmin=0,cmax=1,
                                showscale=True),
                 ],
             )
