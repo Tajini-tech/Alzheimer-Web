@@ -1,5 +1,7 @@
 # Alzheimer-Web
 Web application for 3D Visualization of Alzheimer's disease Signatures
+![Web_app](https://github.com/Tajini-tech/Alzheimer-Web/assets/143637408/1df40d2e-7f06-4b8b-993b-0e12260eecca)
+
 
 ## 2D Plane Saliency Visualization:
 The proposed approach involves visualizing saliency maps overlaid on reconstructed brain surfaces using the Marching cubes algorithm. A collection of preprocessed 2D saliency slices are used to create 2D saliency planes. The final color of the saliency on the 2D plane is calculated using a combination of color mapping and lighting calculations. The saliency values, which range from 0 to 1, are mapped to a Green Yellow Red (GYR) colorscale. The visible brain surface has a thickness defined as 10 MRI scans per frame
