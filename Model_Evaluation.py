@@ -1,15 +1,12 @@
-import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
+
 n_folds = 3
 ds_name = [["AD","NC"]]
-
-
 
 plot_history_path="/coronal_scores"
 #plot_history_path="/sagital_scores"
 #plot_history_path="/axial_scores"
-
 
 plot_data_type= ["ROC_AUC", "evaluation","training"]
 
