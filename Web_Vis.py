@@ -941,7 +941,7 @@ html.Div([
     ],
     body=True,
 )
-row_content_1=[dbc.Col(dcc.Graph(id="graph-court"),width={"size": 3, "offset": 2}),
+row_content_1=[dbc.Col(dcc.Graph(id="graph_coronal"),width={"size": 3, "offset": 2}),
                 dbc.Col(dcc.Graph(id="graph_sagital"), width=3),
                 dbc.Col(dcc.Graph(id="graph_axial"),width=3)]
 row_content_2=[dbc.Col(controls, width=2),
@@ -983,7 +983,7 @@ app.layout = dbc.Container(
 
 @app.callback(
 [Output('graph-2d_court', 'figure'),Output("graph-2d_sagital","figure"),Output("graph-2d_axial","figure"),
- Output('graph-court', 'figure'),Output("graph_sagital","figure"),Output("graph_axial","figure")],
+ Output('graph_coronal', 'figure'),Output("graph_sagital","figure"),Output("graph_axial","figure")],
               [Input('dropdown', 'value'),Input("slider_threshold","value")])
 def update_mask(selected_value,t):
     if selected_value is None and t is None:
